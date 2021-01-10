@@ -51,6 +51,8 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 >   - ![icons8-google_translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-59-40-icons8-google_translate.png)[Google Dịch](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=vi) : Dịch ngôn ngữ đơn giản, nhanh
 > - ![48.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-13-05-48.png) [Universal Bypass](https://universal-bypass.org/) : pass qua link rút gọn, có thể tải file zip [tại đây](https://github.com/Sainan/Universal-Bypass/releases/download/13.15.1/Universal.Bypass.for.Chromium-based.browsers.zip)
 
-Hãy nhấn và  **video** dưới đây để xem hướng dẫn bạn từng chút về các Extension này :
+Hãy **nhấn vào** **video** dưới đây để xem hướng dẫn bạn từng chút về các Extension này :
 
 [<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-13-55-31-extensionguide.jpg" title="Extension Guide" alt="Error Video" width="400">](https://youtu.be/Ef3guEccaGs)
+
+> ![Questions And Answers.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-14-02-52-Questions%20And%20Answers.png) Nếu bạn có thắc mắc hãy hỏi đáp [tại đây](https://github.com/Zenfection/Tips/discussions/2)
