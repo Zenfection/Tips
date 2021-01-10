@@ -53,6 +53,4 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 
 Hãy xem video dưới đây hướng dẫn bạn từng chút về các Extension này :
 
-<div>
-<iframe width="1280" height="720" src="https://youtu.be/vh2s87ObTjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/vh2s87ObTjU "Extension")
