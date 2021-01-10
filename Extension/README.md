@@ -52,9 +52,9 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 > - ![48.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-13-05-48.png) [Universal Bypass](https://universal-bypass.org/) : pass qua link rút gọn
 
 Hãy nhấn và  **video** dưới đây để xem hướng dẫn bạn từng chút về các Extension này :
+
 <div>
 <video src="https://youtu.be/Ef3guEccaGs"></video>
 </div>
 
-
-[![Error Video](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-13-55-31-extensionguide.jpg)](https://youtu.be/Ef3guEccaGs)
+[<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-13-55-31-extensionguide.jpg" title="" alt="Error Video" width="400">](https://youtu.be/Ef3guEccaGs)
