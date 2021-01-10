@@ -8,7 +8,7 @@ Vậy có những `browser` nào ?
 
 > 💡 Có rất nhiều `browser` hiện nay, nhưng được chia ra làm 2 nhánh chính:
 > 
-> - Nhân **[Chromium](https://vi.wikipedia.org/wiki/Chromium_(trình_duyệt)** : Đứng đầu là **Firefox**, sau đó có những phiên bản dựa trên đó như Opera, Yandex, Brave, Cent...
+> - Nhân **[Chromium](https://vi.wikipedia.org/wiki/Chromium_(tr%C3%ACnh_duy%E1%BB%87t))** : Đứng đầu là **Firefox**, sau đó có những phiên bản dựa trên đó như Opera, Yandex, Brave, Cent...
 > - Nhân **[Mozilla](https://vi.wikipedia.org/wiki/Tập_đoàn_Mozilla)** :  Đứng đầu là  **Firefox**, sau đó là những phiên bản dựa trên nó như **Waterfox**,**IceCat** 
 > 
 > 🤣 Nhưng hiện nay `browser` nhân **chromium** là phổ biến nhất, còn nhân **Mozilla** chỉ thấy **Firefox** là tốt. Vậy ta nên chọn trình duyệt nào, mình sẽ đưa cho bạn một tý lựa chọn
@@ -49,5 +49,3 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 > - ![busterhuman.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-07-11-busterhuman.png)[Buster Captcha Solver for Humans](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) : pass qua Captcha
 > - ![Mate_Translate_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-06-18-Mate_Translate_Alt.png)[Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) : Dịch tiếng anh sang tiếng việt tốt nhất
 > - ![48.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-13-05-48.png) [Universal Bypass](https://universal-bypass.org/) : pass qua link rút gọn
-
-
