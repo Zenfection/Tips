@@ -51,6 +51,6 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 >   - ![icons8-google_translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-59-40-icons8-google_translate.png)[Google Dịch](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=vi) : Dịch ngôn ngữ đơn giản, nhanh
 > - ![48.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-13-05-48.png) [Universal Bypass](https://universal-bypass.org/) : pass qua link rút gọn
 
-Hãy xem video dưới đây hướng dẫn bạn từng chút về các Extension này :
+Hãy nhấn và  **video** dưới đây để xem hướng dẫn bạn từng chút về các Extension này :
 
-[![Error Video](https://i9.ytimg.com/vi/vh2s87ObTjU/mq1.jpg?sqp=COCv6v8F&rs=AOn4CLCg51KTw6Lorr8nZP3xtac8sjze-g&retry=3)](https://youtu.be/vh2s87ObTjU "Extension")
+[![Error Video](/Users/zenfection/Library/Application%20Support/marktext/images/372198282c6f7062af7d39b8ba5c1ea3783a7a2b.png)](https://youtu.be/Ef3guEccaGs "Extension Guide")
