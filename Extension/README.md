@@ -57,4 +57,4 @@ Hãy nhấn và  **video** dưới đây để xem hướng dẫn bạn từng c
 </div>
 
 
-[![Error Video](/Users/zenfection/Library/Application%20Support/marktext/images/372198282c6f7062af7d39b8ba5c1ea3783a7a2b.png)](https://youtu.be/Ef3guEccaGs)
+[![Error Video](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-13-55-31-extensionguide.jpg)](https://youtu.be/Ef3guEccaGs)
