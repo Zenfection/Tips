@@ -53,4 +53,4 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 
 Hãy xem video dưới đây hướng dẫn bạn từng chút về các Extension này :
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/vh2s87ObTjU "Extension")
+[![Error Video](https://i9.ytimg.com/vi/vh2s87ObTjU/mq1.jpg?sqp=COCv6v8F&rs=AOn4CLCg51KTw6Lorr8nZP3xtac8sjze-g&retry=3)](https://youtu.be/vh2s87ObTjU "Extension")
