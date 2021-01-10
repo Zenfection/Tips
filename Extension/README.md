@@ -49,12 +49,8 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 > - ![busterhuman.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-07-11-busterhuman.png)[Buster Captcha Human](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) : pass qua Captcha
 >   - ![Mate_Translate_Alt.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-06-18-Mate_Translate_Alt.png)[Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) : Dịch ngôn ngữ tốt nhất nhưng hơi nặng
 >   - ![icons8-google_translate.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-59-40-icons8-google_translate.png)[Google Dịch](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=vi) : Dịch ngôn ngữ đơn giản, nhanh
-> - ![48.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-13-05-48.png) [Universal Bypass](https://universal-bypass.org/) : pass qua link rút gọn
+> - ![48.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-10-13-05-48.png) [Universal Bypass](https://universal-bypass.org/) : pass qua link rút gọn, có thể tải file zip [tại đây](https://github.com/Sainan/Universal-Bypass/releases/download/13.15.1/Universal.Bypass.for.Chromium-based.browsers.zip)
 
 Hãy nhấn và  **video** dưới đây để xem hướng dẫn bạn từng chút về các Extension này :
 
-<div>
-<video src="https://youtu.be/Ef3guEccaGs"></video>
-</div>
-
-[<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-13-55-31-extensionguide.jpg" title="" alt="Error Video" width="400">](https://youtu.be/Ef3guEccaGs)
+[<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/10-13-55-31-extensionguide.jpg" title="Extension Guide" alt="Error Video" width="400">](https://youtu.be/Ef3guEccaGs)
