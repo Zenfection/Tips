@@ -53,4 +53,4 @@ Sau đó các bạn vào những link vào cài những Extension sau đây :
 
 Hãy nhấn và  **video** dưới đây để xem hướng dẫn bạn từng chút về các Extension này :
 
-[![Error Video](/Users/zenfection/Library/Application%20Support/marktext/images/372198282c6f7062af7d39b8ba5c1ea3783a7a2b.png)](https://youtu.be/Ef3guEccaGs "Extension Guide")
+[![Error Video](/Users/zenfection/Library/Application%20Support/marktext/images/372198282c6f7062af7d39b8ba5c1ea3783a7a2b.png)](https://youtu.be/Ef3guEccaGs)
